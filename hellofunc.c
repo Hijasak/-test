@@ -3,5 +3,6 @@
 void myPrintHelloMake(void)
 {
 printf("hello maker. \n");
+  printf("this is my frst git project");
 return;
 }
